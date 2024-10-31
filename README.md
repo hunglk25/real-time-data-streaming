@@ -1,9 +1,8 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+# Realtime Data Streaming
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 
