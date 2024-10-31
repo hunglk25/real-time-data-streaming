@@ -13,8 +13,7 @@
 This repository contains a personal project designed to enhance my skills in Data Engineering. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. 
 
 ## System Architecture
-
-![System Architecture](https://github.com/hunglk25/real-time-data-streaming/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/hunglk25/real-time-data-streaming/blob/05583e51b336083fef4adb39f0776c5f703e0722/Data%20engineering%20architecture%20.png)
 
 The project is designed with the following components:
 
